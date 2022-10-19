@@ -16,7 +16,7 @@ pipeline {
   
        steps { 
 
-                 echo "this is new branch AWS"
+                 echo "this is new branch amazon AWS/devops"
  
                   }
              }
